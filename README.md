@@ -17,8 +17,7 @@ Me chamo Enzo Brito, e possuo grande interesse em tecnologia, sempre buscando ap
 
 ## Minhas Estátisticas 👾
 
-![BritoEnzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritoEnzo&show_icons=true&theme=tokyonight)  <img align="rigth" alt="Enzo-GIF" height="190" width="200" src="https://github.com/user-attachments/assets/d0e05ae2-b9d8-4724-85a1-491c511352dc">
-
+![BritoEnzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BritoEnzo&show_icons=true&theme=tokyonight)  
 
 
 
